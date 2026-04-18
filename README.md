@@ -14,6 +14,9 @@ Built Linear Regression algorithm from scratch using Python without sklearn.
 - Pandas
 - Matplotlib
 
+## Key Finding
+RMSE is 0.83 LPA and have a 27% of average error
+
 ## Key Learning
 Built the math behind Linear Regression manually instead of 
 using sklearn's built-in model.
